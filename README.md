@@ -1,6 +1,8 @@
 # launch-page
 Mock website for "Antonio's Drum Lessons" 
 
+** Not ready for mobile yet **
+
 Antonio's Drum Lessons is a website for a fake service with 3 pages:
 Home Page, Features Page, & Pricing Page
 
